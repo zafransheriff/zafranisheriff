@@ -8,12 +8,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/zafransheriff/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Rseource Group and Virtual Machine Lab ](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Network Files and Permisson Lab ](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs]( )
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols]( )
+  - [Rseource Group and Virtual Machine Lab ]( )
+  - [Network Files and Permisson Lab ]( )
 - <b>Proton VPN</b>
-- [VPN Setup Lab ](https://github.com/joshmadakorcc/azure-network-protocols)
+- [VPN Setup Lab ]( )
 
 
 - <h2>🤳Connect with me:</h2>
